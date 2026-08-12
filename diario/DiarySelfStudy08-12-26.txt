@@ -1,0 +1,5 @@
+08/12/26
+	Today I have continued my studies about Operational Systems and what they do in the computer, the function, the modes they work like Kernel and User Mode. I just did some superficial scratch on this OS part, but is an beginning.
+	I have done some activities and tasks on TryHackMe, undestand about different types of OS, different companies that use OS for different proposites, and undestand that have OS for a lot of things, like personal use, server use, Iot use and Cloud Use.
+	Making little activities I realize that the OS is a way more important and complex. I use a lab on THM with Windows Server 2019 Datacenter to do the activities and explored the app and configurations on the system, I confess that i got stuck on the last question of the security scan, but I got the archive name and got the right answer for the question on "Windows Basics" room and got that room completed.
+	After this things I did some search with claude about my studies and some tools for me to use on my study including: How to use GitHub for deploy my documents and using tools like PortSwiger Web Secure, TryHackMe Premium and HackTheBox.
